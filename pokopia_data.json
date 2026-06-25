@@ -1,0 +1,3078 @@
+{
+    "Bulbasaur": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Soft stuff",
+            "Group Activities",
+            "Lots of water",
+            "Lots of nature",
+            "Cute stuff"
+        ]
+    },
+    "Ivysaur": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Soft stuff",
+            "Pretty flowers",
+            "Colorful stuff",
+            "Lots of nature",
+            "Cute stuff"
+        ]
+    },
+    "Venusaur": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Soft stuff",
+            "Pretty flowers",
+            "Luxury",
+            "Lots of nature",
+            "Cute stuff"
+        ]
+    },
+    "Charmander": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Exercise",
+            "Lots of fire",
+            "Hard stuff",
+            "Group Activities",
+            "Wooden stuff"
+        ]
+    },
+    "Charmeleon": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Exercise",
+            "Lots of fire",
+            "Hard stuff",
+            "Rides",
+            "Wooden stuff"
+        ]
+    },
+    "Charizard": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Exercise",
+            "Luxury",
+            "Lots of fire",
+            "Nice breezes",
+            "Wooden stuff"
+        ]
+    },
+    "Squirtle": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Healing",
+            "Group Activities",
+            "Cleanliness",
+            "Lots of water",
+            "Cute stuff"
+        ]
+    },
+    "Wartortle": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Exercise",
+            "Healing",
+            "Hard stuff",
+            "Cleanliness",
+            "Lots of water"
+        ]
+    },
+    "Blastoise": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Exercise",
+            "Healing",
+            "Luxury",
+            "Cleanliness",
+            "Lots of water"
+        ]
+    },
+    "Pidgey": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Watching stuff",
+            "Soft stuff",
+            "Lots of nature",
+            "Nice breezes",
+            "Play spaces"
+        ]
+    },
+    "Pidgeotto": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Watching stuff",
+            "Soft stuff",
+            "Looks like food",
+            "Lots of nature",
+            "Nice breezes"
+        ]
+    },
+    "Pidgeot": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Soft stuff",
+            "Luxury",
+            "Lots of nature",
+            "Nice breezes",
+            "Wooden stuff"
+        ]
+    },
+    "Oddish": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Soft stuff",
+            "Lots of dirt",
+            "Pretty flowers",
+            "Lots of water",
+            "Lots of nature"
+        ]
+    },
+    "Gloom": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Soft stuff",
+            "Lots of dirt",
+            "Pretty flowers",
+            "Garbage",
+            "Lots of nature"
+        ]
+    },
+    "Vileplume": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Soft stuff",
+            "Lots of dirt",
+            "Pretty flowers",
+            "Colorful stuff",
+            "Lots of nature"
+        ]
+    },
+    "Bellossom": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Pretty flowers",
+            "Lots of nature",
+            "Play spaces",
+            "Noisy stuff",
+            "Cute stuff"
+        ]
+    },
+    "Paras": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Watching stuff",
+            "Lots of dirt",
+            "Looks like food",
+            "Lots of nature",
+            "Wooden stuff"
+        ]
+    },
+    "Parasect": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Watching stuff",
+            "Lots of dirt",
+            "Lots of nature",
+            "Strange stuff",
+            "Wooden stuff"
+        ]
+    },
+    "Venonat": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Watching stuff",
+            "Lots of nature",
+            "Letters and words",
+            "Wooden stuff",
+            "Complicated stuff"
+        ]
+    },
+    "Venomoth": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Watching stuff",
+            "Pretty flowers",
+            "Lots of nature",
+            "Nice breezes",
+            "Wooden stuff"
+        ]
+    },
+    "Bellsprout": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Lots of dirt",
+            "Pretty flowers",
+            "Lots of water",
+            "Lots of nature",
+            "Wooden stuff"
+        ]
+    },
+    "Weepinbell": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Lots of dirt",
+            "Pretty flowers",
+            "Colorful stuff",
+            "Lots of nature",
+            "Wooden stuff"
+        ]
+    },
+    "Victreebel": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Lots of dirt",
+            "Pretty flowers",
+            "Colorful stuff",
+            "Lots of nature",
+            "Wooden stuff"
+        ]
+    },
+    "Slowpoke": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Healing",
+            "Soft stuff",
+            "Cleanliness",
+            "Lots of water",
+            "Strange stuff"
+        ]
+    },
+    "Slowbro": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Healing",
+            "Group Activities",
+            "Cleanliness",
+            "Lots of water",
+            "Strange stuff"
+        ]
+    },
+    "Slowking": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Healing",
+            "Group Activities",
+            "Cleanliness",
+            "Lots of water",
+            "Strange stuff"
+        ]
+    },
+    "Magnemite": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Hard stuff",
+            "Group Activities",
+            "Metal stuff",
+            "Shiny stuff",
+            "Electronics"
+        ]
+    },
+    "Magneton": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Gatherings",
+            "Group Activities",
+            "Metal stuff",
+            "Shiny stuff",
+            "Electronics"
+        ]
+    },
+    "Magnezone": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Gatherings",
+            "Luxury",
+            "Hard stuff",
+            "Metal stuff",
+            "Electronics"
+        ]
+    },
+    "Onix": {
+        "ideal_habitat": "Dry",
+        "favorites": [
+            "Exercise",
+            "Lots of dirt",
+            "Blocky stuff",
+            "Slender objects",
+            "Stone stuff"
+        ]
+    },
+    "Steelix": {
+        "ideal_habitat": "Dry",
+        "favorites": [
+            "Lots of dirt",
+            "Hard stuff",
+            "Slender objects",
+            "Metal stuff",
+            "Stone stuff"
+        ]
+    },
+    "Cubone": {
+        "ideal_habitat": "Dry",
+        "favorites": [
+            "Exercise",
+            "Lots of dirt",
+            "Group Activities",
+            "Construction",
+            "Slender objects"
+        ]
+    },
+    "Marowak": {
+        "ideal_habitat": "Dry",
+        "favorites": [
+            "Exercise",
+            "Lots of dirt",
+            "Luxury",
+            "Construction",
+            "Slender objects"
+        ]
+    },
+    "Tyrogue": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Round stuff",
+            "Exercise",
+            "Fabric",
+            "Group Activities",
+            "Stone stuff"
+        ]
+    },
+    "Hitmonlee": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Round stuff",
+            "Exercise",
+            "Fabric",
+            "Group Activities",
+            "Stone stuff"
+        ]
+    },
+    "Hitmonchan": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Round stuff",
+            "Exercise",
+            "Fabric",
+            "Group Activities",
+            "Stone stuff"
+        ]
+    },
+    "Hitmontop": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Round stuff",
+            "Exercise",
+            "Fabric",
+            "Group Activities",
+            "Stone stuff"
+        ]
+    },
+    "Koffing": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Gatherings",
+            "Soft stuff",
+            "Garbage",
+            "Wobbly stuff",
+            "Complicated stuff"
+        ]
+    },
+    "Weezing": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Gatherings",
+            "Soft stuff",
+            "Garbage",
+            "Wobbly stuff",
+            "Complicated stuff"
+        ]
+    },
+    "Tangela": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Gatherings",
+            "Pretty flowers",
+            "Lots of water",
+            "Lots of nature",
+            "Slender objects"
+        ]
+    },
+    "Professor Tangrowth": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Group Activities",
+            "Lots of nature",
+            "Letters and words",
+            "Strange stuff",
+            "Complicated stuff"
+        ]
+    },
+    "Tangrowth": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Gatherings",
+            "Watching stuff",
+            "Pretty flowers",
+            "Lots of water",
+            "Lots of nature"
+        ]
+    },
+    "Scyther": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Exercise",
+            "Sharp stuff",
+            "Lots of nature",
+            "Nice breezes",
+            "Wooden stuff"
+        ]
+    },
+    "Scizor": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Exercise",
+            "Hard stuff",
+            "Lots of nature",
+            "Metal stuff",
+            "Wooden stuff"
+        ]
+    },
+    "Pinsir": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Exercise",
+            "Pretty flowers",
+            "Sharp stuff",
+            "Lots of nature",
+            "Wooden stuff"
+        ]
+    },
+    "Magikarp": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Group Activities",
+            "Rides",
+            "Lots of water",
+            "Wobbly stuff",
+            "Ocean vibes"
+        ]
+    },
+    "Gyarados": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Cleanliness",
+            "Lots of water",
+            "Nice breezes",
+            "Slender objects",
+            "Ocean vibes"
+        ]
+    },
+    "Ditto": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "None"
+        ]
+    },
+    "Hoothoot": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Watching stuff",
+            "Soft stuff",
+            "Fabric",
+            "Nice breezes",
+            "Wobbly stuff"
+        ]
+    },
+    "Noctowl": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Watching stuff",
+            "Soft stuff",
+            "Nice breezes",
+            "Containers",
+            "Letters and words"
+        ]
+    },
+    "Heracross": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Exercise",
+            "Pretty flowers",
+            "Looks like food",
+            "Lots of nature",
+            "Wooden stuff"
+        ]
+    },
+    "Volbeat": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Group Activities",
+            "Lots of nature",
+            "Wooden stuff",
+            "Cute stuff",
+            "Shiny stuff"
+        ]
+    },
+    "Illumise": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Group Activities",
+            "Lots of nature",
+            "Wooden stuff",
+            "Cute stuff",
+            "Shiny stuff"
+        ]
+    },
+    "Gulpin": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Round stuff",
+            "Looks like food",
+            "Colorful stuff",
+            "Containers",
+            "Cute stuff"
+        ]
+    },
+    "Swalot": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Round stuff",
+            "Looks like food",
+            "Colorful stuff",
+            "Garbage",
+            "Containers"
+        ]
+    },
+    "Cacnea": {
+        "ideal_habitat": "Dry",
+        "favorites": [
+            "Round stuff",
+            "Pretty flowers",
+            "Sharp stuff",
+            "Lots of nature",
+            "Cute stuff"
+        ]
+    },
+    "Cacturne": {
+        "ideal_habitat": "Dry",
+        "favorites": [
+            "Luxury",
+            "Sharp stuff",
+            "Lots of nature",
+            "Nice breezes",
+            "Shiny stuff"
+        ]
+    },
+    "Combee": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Gatherings",
+            "Group Activities",
+            "Lots of nature",
+            "Nice breezes",
+            "Wooden stuff"
+        ]
+    },
+    "Vespiquen": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Gatherings",
+            "Lots of nature",
+            "Nice breezes",
+            "Wooden stuff",
+            "Complicated stuff"
+        ]
+    },
+    "Shellos": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Colorful stuff",
+            "Cleanliness",
+            "Lots of water",
+            "Containers",
+            "Ocean vibes"
+        ]
+    },
+    "Shellos East Sea": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Colorful stuff",
+            "Cleanliness",
+            "Lots of water",
+            "Containers",
+            "Ocean vibes"
+        ]
+    },
+    "Gastrodon": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Lots of dirt",
+            "Cleanliness",
+            "Lots of water",
+            "Containers",
+            "Ocean vibes"
+        ]
+    },
+    "Gastrodon East Sea": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Lots of dirt",
+            "Cleanliness",
+            "Lots of water",
+            "Containers",
+            "Ocean vibes"
+        ]
+    },
+    "Drifloon": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Round stuff",
+            "Spooky stuff",
+            "Nice breezes",
+            "Strange stuff",
+            "Cute stuff"
+        ]
+    },
+    "Drifblim": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Spooky stuff",
+            "Wobbly stuff",
+            "Nice breezes",
+            "Strange stuff",
+            "Spinning stuff"
+        ]
+    },
+    "Drilbur": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Watching stuff",
+            "Lots of dirt",
+            "Sharp stuff",
+            "Lots of nature",
+            "Stone stuff"
+        ]
+    },
+    "Excadrill": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Watching stuff",
+            "Exercise",
+            "Lots of dirt",
+            "Sharp stuff",
+            "Metal stuff"
+        ]
+    },
+    "Timburr": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Exercise",
+            "Construction",
+            "Blocky stuff",
+            "Slender objects",
+            "Wooden stuff"
+        ]
+    },
+    "Gurdurr": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Exercise",
+            "Group Activities",
+            "Construction",
+            "Slender objects",
+            "Metal stuff"
+        ]
+    },
+    "Conkeldurr": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Exercise",
+            "Group Activities",
+            "Construction",
+            "Slender objects",
+            "Stone stuff"
+        ]
+    },
+    "Litwick": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Spooky stuff",
+            "Lots of fire",
+            "Blocky stuff",
+            "Strange stuff",
+            "Wobbly stuff"
+        ]
+    },
+    "Lampent": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Spooky stuff",
+            "Lots of fire",
+            "Containers",
+            "Strange stuff",
+            "Wobbly stuff"
+        ]
+    },
+    "Chandelure": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Watching stuff",
+            "Spooky stuff",
+            "Lots of fire",
+            "Strange stuff",
+            "Wobbly stuff"
+        ]
+    },
+    "Axew": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Lots of dirt",
+            "Luxury",
+            "Lots of fire",
+            "Hard stuff",
+            "Sharp stuff"
+        ]
+    },
+    "Fraxure": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Exercise",
+            "Lots of dirt",
+            "Luxury",
+            "Lots of fire",
+            "Sharp stuff"
+        ]
+    },
+    "Haxorus": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Exercise",
+            "Lots of dirt",
+            "Luxury",
+            "Lots of fire",
+            "Sharp stuff"
+        ]
+    },
+    "Goomy": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Healing",
+            "Luxury",
+            "Cleanliness",
+            "Lots of water",
+            "Lots of nature"
+        ]
+    },
+    "Sliggoo": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Healing",
+            "Soft stuff",
+            "Luxury",
+            "Cleanliness",
+            "Lots of water"
+        ]
+    },
+    "Goodra": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Exercise",
+            "Healing",
+            "Luxury",
+            "Cleanliness",
+            "Lots of water"
+        ]
+    },
+    "Cramorant": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Looks like food",
+            "Lots of water",
+            "Nice breezes",
+            "Slender objects",
+            "Ocean vibes"
+        ]
+    },
+    "Pichu": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Pretty flowers",
+            "Fabric",
+            "Glass stuff",
+            "Cute stuff",
+            "Electronics"
+        ]
+    },
+    "Peakychu": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Healing",
+            "Glass stuff",
+            "Letters and words",
+            "Cute stuff",
+            "Electronics"
+        ]
+    },
+    "Pikachu": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Round stuff",
+            "Group Activities",
+            "Rides",
+            "Glass stuff",
+            "Electronics"
+        ]
+    },
+    "Raichu": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Round stuff",
+            "Group Activities",
+            "Glass stuff",
+            "Play spaces",
+            "Electronics"
+        ]
+    },
+    "Zubat": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Spooky stuff",
+            "Nice breezes",
+            "Wooden stuff",
+            "Complicated stuff",
+            "Noisy stuff"
+        ]
+    },
+    "Golbat": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Spooky stuff",
+            "Nice breezes",
+            "Wooden stuff",
+            "Complicated stuff",
+            "Noisy stuff"
+        ]
+    },
+    "Crobat": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Watching stuff",
+            "Spooky stuff",
+            "Garbage",
+            "Nice breezes",
+            "Wooden stuff"
+        ]
+    },
+    "Meowth": {
+        "ideal_habitat": "Cool",
+        "favorites": [
+            "Luxury",
+            "Group Activities",
+            "Containers",
+            "Glass stuff",
+            "Shiny stuff"
+        ]
+    },
+    "Persian": {
+        "ideal_habitat": "Cool",
+        "favorites": [
+            "Watching stuff",
+            "Luxury",
+            "Group Activities",
+            "Containers",
+            "Shiny stuff"
+        ]
+    },
+    "Psyduck": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Healing",
+            "Lots of water",
+            "Strange stuff",
+            "Complicated stuff",
+            "Ocean vibes"
+        ]
+    },
+    "Golduck": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Sharp stuff",
+            "Lots of water",
+            "Strange stuff",
+            "Complicated stuff",
+            "Ocean vibes"
+        ]
+    },
+    "Growlithe": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Pretty flowers",
+            "Lots of fire",
+            "Nice breezes",
+            "Letters and words",
+            "Stone stuff"
+        ]
+    },
+    "Arcanine": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Watching stuff",
+            "Lots of fire",
+            "Symbols",
+            "Nice breezes",
+            "Stone stuff"
+        ]
+    },
+    "Farfetch'd": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Exercise",
+            "Soft stuff",
+            "Nice breezes",
+            "Slender objects",
+            "Wooden stuff"
+        ]
+    },
+    "Grimer": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Gatherings",
+            "Spooky stuff",
+            "Garbage",
+            "Containers",
+            "Shiny stuff"
+        ]
+    },
+    "Muk": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Gatherings",
+            "Spooky stuff",
+            "Colorful stuff",
+            "Garbage",
+            "Shiny stuff"
+        ]
+    },
+    "Gastly": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Spooky stuff",
+            "Garbage",
+            "Group Activities",
+            "Containers",
+            "Strange stuff"
+        ]
+    },
+    "Haunter": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Spooky stuff",
+            "Garbage",
+            "Group Activities",
+            "Strange stuff",
+            "Wobbly stuff"
+        ]
+    },
+    "Gengar": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Spooky stuff",
+            "Garbage",
+            "Group Activities",
+            "Rides",
+            "Strange stuff"
+        ]
+    },
+    "Voltorb": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Round stuff",
+            "Colorful stuff",
+            "Spinning stuff",
+            "Shiny stuff",
+            "Electronics"
+        ]
+    },
+    "Electrode": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Round stuff",
+            "Play spaces",
+            "Spinning stuff",
+            "Shiny stuff",
+            "Electronics"
+        ]
+    },
+    "Exeggcute": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Gatherings",
+            "Watching stuff",
+            "Group Activities",
+            "Lots of nature",
+            "Strange stuff"
+        ]
+    },
+    "Exeggutor": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Gatherings",
+            "Watching stuff",
+            "Lots of nature",
+            "Strange stuff",
+            "Wooden stuff"
+        ]
+    },
+    "Happiny": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Round stuff",
+            "Soft stuff",
+            "Healing",
+            "Fabric",
+            "Containers"
+        ]
+    },
+    "Chansey": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Round stuff",
+            "Soft stuff",
+            "Healing",
+            "Fabric",
+            "Group Activities"
+        ]
+    },
+    "Blissey": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Round stuff",
+            "Soft stuff",
+            "Healing",
+            "Fabric",
+            "Group Activities"
+        ]
+    },
+    "Elekid": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Round stuff",
+            "Glass stuff",
+            "Spinning stuff",
+            "Cute stuff",
+            "Electronics"
+        ]
+    },
+    "Electabuzz": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Exercise",
+            "Lots of fire",
+            "Sharp stuff",
+            "Glass stuff",
+            "Electronics"
+        ]
+    },
+    "Electivire": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Exercise",
+            "Lots of fire",
+            "Hard stuff",
+            "Glass stuff",
+            "Electronics"
+        ]
+    },
+    "Lapras": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Watching stuff",
+            "Healing",
+            "Cleanliness",
+            "Lots of water",
+            "Ocean vibes"
+        ]
+    },
+    "Munchlax": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Soft stuff",
+            "Looks like food",
+            "Group Activities",
+            "Lots of nature",
+            "Wobbly stuff"
+        ]
+    },
+    "Mosslax": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Watching stuff",
+            "Soft stuff",
+            "Fabric",
+            "Looks like food",
+            "Strange stuff"
+        ]
+    },
+    "Snorlax": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Soft stuff",
+            "Fabric",
+            "Looks like food",
+            "Rides",
+            "Wobbly stuff"
+        ]
+    },
+    "Spinarak": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Colorful stuff",
+            "Garbage",
+            "Rides",
+            "Lots of nature",
+            "Wooden stuff"
+        ]
+    },
+    "Ariados": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Colorful stuff",
+            "Garbage",
+            "Rides",
+            "Lots of nature",
+            "Wooden stuff"
+        ]
+    },
+    "Mareep": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Fabric",
+            "Glass stuff",
+            "Cute stuff",
+            "Shiny stuff",
+            "Electronics"
+        ]
+    },
+    "Flaaffy": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Rides",
+            "Glass stuff",
+            "Cute stuff",
+            "Shiny stuff",
+            "Electronics"
+        ]
+    },
+    "Ampharos": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Pretty flowers",
+            "Glass stuff",
+            "Cute stuff",
+            "Shiny stuff",
+            "Electronics"
+        ]
+    },
+    "Azurill": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Healing",
+            "Rides",
+            "Lots of water",
+            "Cleanliness",
+            "Cute stuff"
+        ]
+    },
+    "Marill": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Round stuff",
+            "Symbols",
+            "Cleanliness",
+            "Lots of water",
+            "Cute stuff"
+        ]
+    },
+    "Azumarill": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Symbols",
+            "Construction",
+            "Lots of water",
+            "Wobbly stuff",
+            "Cute stuff"
+        ]
+    },
+    "Paldean Wooper": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Lots of dirt",
+            "Garbage",
+            "Group Activities",
+            "Cleanliness",
+            "Stone stuff"
+        ]
+    },
+    "Clodsire": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Round stuff",
+            "Lots of dirt",
+            "Garbage",
+            "Cleanliness",
+            "Lots of water"
+        ]
+    },
+    "Smeargle": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Soft stuff",
+            "Fabric",
+            "Colorful stuff",
+            "Strange stuff",
+            "Shiny stuff"
+        ]
+    },
+    "Torchic": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Pretty flowers",
+            "Lots of fire",
+            "Containers",
+            "Stone stuff",
+            "Cute stuff"
+        ]
+    },
+    "Combusken": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Exercise",
+            "Lots of fire",
+            "Construction",
+            "Containers",
+            "Stone stuff"
+        ]
+    },
+    "Blaziken": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Exercise",
+            "Luxury",
+            "Lots of fire",
+            "Construction",
+            "Containers"
+        ]
+    },
+    "Wingull": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Watching stuff",
+            "Cleanliness",
+            "Lots of water",
+            "Nice breezes",
+            "Ocean vibes"
+        ]
+    },
+    "Pelipper": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Watching stuff",
+            "Cleanliness",
+            "Lots of water",
+            "Nice breezes",
+            "Ocean vibes"
+        ]
+    },
+    "Makuhita": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Round stuff",
+            "Exercise",
+            "Fabric",
+            "Construction",
+            "Wooden stuff"
+        ]
+    },
+    "Hariyama": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Round stuff",
+            "Exercise",
+            "Fabric",
+            "Rides",
+            "Construction"
+        ]
+    },
+    "Absol": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Exercise",
+            "Soft stuff",
+            "Nice breezes",
+            "Letters and words",
+            "Complicated stuff"
+        ]
+    },
+    "Piplup": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Cleanliness",
+            "Lots of water",
+            "Nice breezes",
+            "Containers",
+            "Ocean vibes"
+        ]
+    },
+    "Prinplup": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Cleanliness",
+            "Lots of water",
+            "Nice breezes",
+            "Containers",
+            "Ocean vibes"
+        ]
+    },
+    "Empoleon": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Cleanliness",
+            "Lots of water",
+            "Letters and words",
+            "Metal stuff",
+            "Ocean vibes"
+        ]
+    },
+    "Audino": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Round stuff",
+            "Soft stuff",
+            "Healing",
+            "Fabric",
+            "Cute stuff"
+        ]
+    },
+    "Trubbish": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Gatherings",
+            "Garbage",
+            "Containers",
+            "Complicated stuff",
+            "Shiny stuff"
+        ]
+    },
+    "Garbodor": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Gatherings",
+            "Garbage",
+            "Containers",
+            "Complicated stuff",
+            "Shiny stuff"
+        ]
+    },
+    "Zorua": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Luxury",
+            "Group Activities",
+            "Glass stuff",
+            "Cute stuff",
+            "Shiny stuff"
+        ]
+    },
+    "Zoroark": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Luxury",
+            "Group Activities",
+            "Glass stuff",
+            "Strange stuff",
+            "Shiny stuff"
+        ]
+    },
+    "Minccino": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Soft stuff",
+            "Fabric",
+            "Rides",
+            "Cleanliness",
+            "Cute stuff"
+        ]
+    },
+    "Cinccino": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Soft stuff",
+            "Fabric",
+            "Rides",
+            "Cleanliness",
+            "Cute stuff"
+        ]
+    },
+    "Grubbin": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Watching stuff",
+            "Lots of dirt",
+            "Lots of nature",
+            "Containers",
+            "Electronics"
+        ]
+    },
+    "Charjabug": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Watching stuff",
+            "Blocky stuff",
+            "Lots of nature",
+            "Glass stuff",
+            "Electronics"
+        ]
+    },
+    "Vikavolt": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Exercise",
+            "Lots of nature",
+            "Nice breezes",
+            "Glass stuff",
+            "Electronics"
+        ]
+    },
+    "Mimikyu": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Spooky stuff",
+            "Fabric",
+            "Group Activities",
+            "Cute stuff",
+            "Electronics"
+        ]
+    },
+    "Pawmi": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Group Activities",
+            "Glass stuff",
+            "Cute stuff",
+            "Shiny stuff",
+            "Electronics"
+        ]
+    },
+    "Pawmo": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Exercise",
+            "Group Activities",
+            "Glass stuff",
+            "Shiny stuff",
+            "Electronics"
+        ]
+    },
+    "Pawmot": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Exercise",
+            "Healing",
+            "Group Activities",
+            "Shiny stuff",
+            "Electronics"
+        ]
+    },
+    "Tatsugiri Curly Form": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Gatherings",
+            "Group Activities",
+            "Lots of water",
+            "Slender Objects",
+            "Ocean vibes"
+        ]
+    },
+    "Tatsugiri Droopy Form": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Group Activities",
+            "Blocky stuff",
+            "Lots of water",
+            "Spinning stuff",
+            "Ocean vibes"
+        ]
+    },
+    "Tatsugiri Stretchy Form": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Group Activities",
+            "Lots of water",
+            "Containers",
+            "Letters and words",
+            "Ocean vibes"
+        ]
+    },
+    "Ekans": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Watching stuff",
+            "Garbage",
+            "Lots of nature",
+            "Slender objects",
+            "Spinning stuff"
+        ]
+    },
+    "Arbok": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Watching stuff",
+            "Garbage",
+            "Lots of nature",
+            "Slender objects",
+            "Spinning stuff"
+        ]
+    },
+    "Cleffa": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Round stuff",
+            "Healing",
+            "Colorful stuff",
+            "Rides",
+            "Cute stuff"
+        ]
+    },
+    "Clefairy": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Healing",
+            "Pretty flowers",
+            "Group Activities",
+            "Play spaces",
+            "Cute stuff"
+        ]
+    },
+    "Clefable": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Healing",
+            "Pretty flowers",
+            "Group Activities",
+            "Play spaces",
+            "Cute stuff"
+        ]
+    },
+    "Igglybuff": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Soft stuff",
+            "Healing",
+            "Play spaces",
+            "Noisy stuff",
+            "Cute stuff"
+        ]
+    },
+    "Jigglypuff": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Soft stuff",
+            "Healing",
+            "Play spaces",
+            "Wobbly stuff",
+            "Cute stuff"
+        ]
+    },
+    "Wigglytuff": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Soft stuff",
+            "Healing",
+            "Group Activities",
+            "Play spaces",
+            "Cute stuff"
+        ]
+    },
+    "Diglett": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Lots of dirt",
+            "Group Activities",
+            "Slender objects",
+            "Play spaces",
+            "Cute stuff"
+        ]
+    },
+    "Dugtrio": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Gatherings",
+            "Lots of dirt",
+            "Group Activities",
+            "Slender objects",
+            "Play spaces"
+        ]
+    },
+    "Machop": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Exercise",
+            "Hard stuff",
+            "Group Activities",
+            "Construction",
+            "Stone stuff"
+        ]
+    },
+    "Machoke": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Exercise",
+            "Hard stuff",
+            "Group Activities",
+            "Construction",
+            "Stone stuff"
+        ]
+    },
+    "Machamp": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Exercise",
+            "Hard stuff",
+            "Group Activities",
+            "Construction",
+            "Stone stuff"
+        ]
+    },
+    "Geodude": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Round stuff",
+            "Exercise",
+            "Hard stuff",
+            "Stone stuff",
+            "Spinning stuff"
+        ]
+    },
+    "Graveler": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Round stuff",
+            "Exercise",
+            "Hard stuff",
+            "Stone stuff",
+            "Spinning stuff"
+        ]
+    },
+    "Golem": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Round stuff",
+            "Exercise",
+            "Hard stuff",
+            "Stone stuff",
+            "Spinning stuff"
+        ]
+    },
+    "Magby": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Watching stuff",
+            "Lots of fire",
+            "Stone stuff",
+            "Wobbly stuff",
+            "Cute stuff"
+        ]
+    },
+    "Magmar": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Exercise",
+            "Lots of fire",
+            "Hard stuff",
+            "Stone stuff",
+            "Electronics"
+        ]
+    },
+    "Magmortar": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Exercise",
+            "Lots of fire",
+            "Hard stuff",
+            "Stone stuff",
+            "Electronics"
+        ]
+    },
+    "Bonsly": {
+        "ideal_habitat": "Dry",
+        "favorites": [
+            "Round stuff",
+            "Hard stuff",
+            "Lots of nature",
+            "Wooden stuff",
+            "Stone stuff"
+        ]
+    },
+    "Sudowoodo": {
+        "ideal_habitat": "Dry",
+        "favorites": [
+            "Watching stuff",
+            "Hard stuff",
+            "Lots of nature",
+            "Wooden stuff",
+            "Stone stuff"
+        ]
+    },
+    "Murkrow": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Fabric",
+            "Luxury",
+            "Group Activities",
+            "Nice breezes",
+            "Shiny stuff"
+        ]
+    },
+    "Honchkrow": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Spooky stuff",
+            "Nice breezes",
+            "Glass stuff",
+            "Letters and words",
+            "Shiny stuff"
+        ]
+    },
+    "Larvitar": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Lots of dirt",
+            "Luxury",
+            "Looks like food",
+            "Stone stuff",
+            "Shiny stuff"
+        ]
+    },
+    "Pupitar": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Watching stuff",
+            "Luxury",
+            "Hard stuff",
+            "Stone stuff",
+            "Shiny stuff"
+        ]
+    },
+    "Tyranitar": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Exercise",
+            "Luxury",
+            "Hard stuff",
+            "Stone stuff",
+            "Shiny stuff"
+        ]
+    },
+    "Lotad": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Cleanliness",
+            "Lots of water",
+            "Lots of nature",
+            "Containers",
+            "Noisy stuff"
+        ]
+    },
+    "Lombre": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Cleanliness",
+            "Lots of water",
+            "Lots of nature",
+            "Containers",
+            "Noisy stuff"
+        ]
+    },
+    "Ludicolo": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Lots of water",
+            "Lots of nature",
+            "Containers",
+            "Play spaces",
+            "Noisy stuff"
+        ]
+    },
+    "Mawile": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Looks like food",
+            "Colorful stuff",
+            "Group Activities",
+            "Metal stuff",
+            "Cute stuff"
+        ]
+    },
+    "Torkoal": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Watching stuff",
+            "Lots of fire",
+            "Hard stuff",
+            "Metal stuff",
+            "Stone stuff"
+        ]
+    },
+    "Kricketot": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Watching stuff",
+            "Colorful stuff",
+            "Lots of nature",
+            "Wooden stuff",
+            "Noisy stuff"
+        ]
+    },
+    "Kricketune": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Watching stuff",
+            "Colorful stuff",
+            "Lots of nature",
+            "Wooden stuff",
+            "Noisy stuff"
+        ]
+    },
+    "Chatot": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Fabric",
+            "Nice breezes",
+            "Slender objects",
+            "Play spaces",
+            "Noisy stuff"
+        ]
+    },
+    "Riolu": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Gatherings",
+            "Exercise",
+            "Watching stuff",
+            "Fabric",
+            "Construction"
+        ]
+    },
+    "Lucario": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Exercise",
+            "Healing",
+            "Construction",
+            "Metal stuff",
+            "Complicated stuff"
+        ]
+    },
+    "Stereo Rotom": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Group Activities",
+            "Blocky stuff",
+            "Glass stuff",
+            "Noisy stuff",
+            "Shiny stuff"
+        ]
+    },
+    "Larvesta": {
+        "ideal_habitat": "Dry",
+        "favorites": [
+            "Lots of fire",
+            "Symbols",
+            "Sharp stuff",
+            "Lots of nature",
+            "Wooden stuff"
+        ]
+    },
+    "Volcarona": {
+        "ideal_habitat": "Dry",
+        "favorites": [
+            "Lots of fire",
+            "Symbols",
+            "Lots of nature",
+            "Letters and words",
+            "Wooden stuff"
+        ]
+    },
+    "Rowlet": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Lots of nature",
+            "Nice breezes",
+            "Containers",
+            "Wooden stuff",
+            "Spinning stuff"
+        ]
+    },
+    "Dartrix": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Cleanliness",
+            "Lots of nature",
+            "Nice breezes",
+            "Slender objects",
+            "Wooden stuff"
+        ]
+    },
+    "Decidueye": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Spooky stuff",
+            "Lots of nature",
+            "Nice breezes",
+            "Letters and words",
+            "Wooden stuff"
+        ]
+    },
+    "Scorbunny": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Soft stuff",
+            "Lots of fire",
+            "Group Activities",
+            "Sharp stuff",
+            "Stone stuff"
+        ]
+    },
+    "Raboot": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Lots of fire",
+            "Group Activities",
+            "Containers",
+            "Play spaces",
+            "Stone stuff"
+        ]
+    },
+    "Cinderace": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Round stuff",
+            "Lots of fire",
+            "Group Activities",
+            "Play spaces",
+            "Stone stuff"
+        ]
+    },
+    "Skwovet": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Round stuff",
+            "Watching stuff",
+            "Soft stuff",
+            "Looks like food",
+            "Wooden stuff"
+        ]
+    },
+    "Greedent": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Soft stuff",
+            "Luxury",
+            "Looks like food",
+            "Group Activities",
+            "Metal stuff"
+        ]
+    },
+    "Rolycoly": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Lots of fire",
+            "Hard stuff",
+            "Rides",
+            "Metal stuff",
+            "Stone stuff"
+        ]
+    },
+    "Carkol": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Lots of fire",
+            "Hard stuff",
+            "Rides",
+            "Metal stuff",
+            "Stone stuff"
+        ]
+    },
+    "Coalossal": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Lots of fire",
+            "Hard stuff",
+            "Rides",
+            "Metal stuff",
+            "Stone stuff"
+        ]
+    },
+    "Toxel": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Garbage",
+            "Glass stuff",
+            "Noisy stuff",
+            "Shiny stuff",
+            "Electronics"
+        ]
+    },
+    "Toxtricity Amped Form": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Sharp stuff",
+            "Slender objects",
+            "Play spaces",
+            "Noisy stuff",
+            "Electronics"
+        ]
+    },
+    "Toxtricity Low Key Form": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Sharp stuff",
+            "Slender objects",
+            "Play spaces",
+            "Noisy stuff",
+            "Electronics"
+        ]
+    },
+    "Fidough": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Watching stuff",
+            "Soft stuff",
+            "Lots of fire",
+            "Letters and words",
+            "Cute stuff"
+        ]
+    },
+    "Dachsbun": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Watching stuff",
+            "Lots of fire",
+            "Looks like food",
+            "Group Activities",
+            "Cute stuff"
+        ]
+    },
+    "Charcadet": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Exercise",
+            "Luxury",
+            "Lots of fire",
+            "Strange stuff",
+            "Stone stuff"
+        ]
+    },
+    "Armarouge": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Exercise",
+            "Luxury",
+            "Lots of fire",
+            "Strange stuff",
+            "Stone stuff"
+        ]
+    },
+    "Ceruledge": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Spooky stuff",
+            "Luxury",
+            "Lots of fire",
+            "Strange stuff",
+            "Stone stuff"
+        ]
+    },
+    "Glimmet": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Hard stuff",
+            "Garbage",
+            "Stone stuff",
+            "Complicated stuff",
+            "Shiny stuff"
+        ]
+    },
+    "Glimmora": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Hard stuff",
+            "Garbage",
+            "Stone stuff",
+            "Complicated stuff",
+            "Shiny stuff"
+        ]
+    },
+    "Gimmighoul": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Spooky stuff",
+            "Metal stuff",
+            "Strange stuff",
+            "Complicated stuff",
+            "Shiny stuff"
+        ]
+    },
+    "Gholdengo": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Spooky stuff",
+            "Metal stuff",
+            "Strange stuff",
+            "Complicated stuff",
+            "Shiny stuff"
+        ]
+    },
+    "Vulpix": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Round stuff",
+            "Soft stuff",
+            "Pretty flowers",
+            "Lots of fire",
+            "Cute stuff"
+        ]
+    },
+    "Ninetales": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Watching stuff",
+            "Soft stuff",
+            "Pretty flowers",
+            "Lots of fire",
+            "Luxury"
+        ]
+    },
+    "Poliwag": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Round stuff",
+            "Cleanliness",
+            "Lots of water",
+            "Rides",
+            "Spinning stuff"
+        ]
+    },
+    "Poliwhirl": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Exercise",
+            "Cleanliness",
+            "Lots of water",
+            "Lots of nature",
+            "Spinning stuff"
+        ]
+    },
+    "Poliwrath": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Exercise",
+            "Group Activities",
+            "Construction",
+            "Cleanliness",
+            "Lots of water"
+        ]
+    },
+    "Politoed": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Gatherings",
+            "Group Activities",
+            "Lots of water",
+            "Play spaces",
+            "Noisy stuff"
+        ]
+    },
+    "Abra": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Watching stuff",
+            "Soft stuff",
+            "Strange stuff",
+            "Metal stuff",
+            "Wobbly stuff"
+        ]
+    },
+    "Kadabra": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Watching stuff",
+            "Containers",
+            "Strange stuff",
+            "Metal stuff",
+            "Wobbly stuff"
+        ]
+    },
+    "Alakazam": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Watching stuff",
+            "Letters and words",
+            "Strange stuff",
+            "Metal stuff",
+            "Wobbly stuff"
+        ]
+    },
+    "Mime Jr.": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Colorful stuff",
+            "Rides",
+            "Play spaces",
+            "Strange stuff",
+            "Cute stuff"
+        ]
+    },
+    "Mr. Mime": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Watching stuff",
+            "Rides",
+            "Strange stuff",
+            "Wobbly stuff",
+            "Cute stuff"
+        ]
+    },
+    "Porygon": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Soft stuff",
+            "Colorful stuff",
+            "Construction",
+            "Blocky stuff",
+            "Strange stuff"
+        ]
+    },
+    "Porygon2": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Round stuff",
+            "Soft stuff",
+            "Colorful stuff",
+            "Construction",
+            "Strange stuff"
+        ]
+    },
+    "Porygon-Z": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Watching stuff",
+            "Soft stuff",
+            "Fabric",
+            "Colorful stuff",
+            "Strange stuff"
+        ]
+    },
+    "Dratini": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Lots of fire",
+            "Cleanliness",
+            "Lots of water",
+            "Slender objects",
+            "Cute stuff"
+        ]
+    },
+    "Dragonair": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Lots of fire",
+            "Cleanliness",
+            "Lots of water",
+            "Glass stuff",
+            "Slender objects"
+        ]
+    },
+    "Dragonite": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Pretty flowers",
+            "Lots of fire",
+            "Symbols",
+            "Cleanliness",
+            "Nice breezes"
+        ]
+    },
+    "Cyndaquil": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Fabric",
+            "Lots of fire",
+            "Rides",
+            "Slender objects",
+            "Metal stuff"
+        ]
+    },
+    "Quilava": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Fabric",
+            "Lots of fire",
+            "Rides",
+            "Slender objects",
+            "Metal stuff"
+        ]
+    },
+    "Typhlosion": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Fabric",
+            "Lots of fire",
+            "Rides",
+            "Slender objects",
+            "Metal stuff"
+        ]
+    },
+    "Misdreavus": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Watching stuff",
+            "Spooky stuff",
+            "Colorful stuff",
+            "Strange stuff",
+            "Shiny stuff"
+        ]
+    },
+    "Mismagius": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Spooky stuff",
+            "Group Activities",
+            "Strange stuff",
+            "Wobbly stuff",
+            "Noisy stuff"
+        ]
+    },
+    "Girafarig": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Watching stuff",
+            "Soft stuff",
+            "Rides",
+            "Slender objects",
+            "Strange stuff"
+        ]
+    },
+    "Farigiraf": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Watching stuff",
+            "Soft stuff",
+            "Rides",
+            "Slender objects",
+            "Strange stuff"
+        ]
+    },
+    "Ralts": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Watching stuff",
+            "Healing",
+            "Symbols",
+            "Strange stuff",
+            "Cute stuff"
+        ]
+    },
+    "Kirlia": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Watching stuff",
+            "Healing",
+            "Symbols",
+            "Strange stuff",
+            "Cute stuff"
+        ]
+    },
+    "Gardevoir": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Watching stuff",
+            "Healing",
+            "Luxury",
+            "Symbols",
+            "Strange stuff"
+        ]
+    },
+    "Gallade": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Exercise",
+            "Healing",
+            "Fabric",
+            "Construction",
+            "Strange stuff"
+        ]
+    },
+    "Plusle": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Soft stuff",
+            "Group Activities",
+            "Glass stuff",
+            "Cute stuff",
+            "Electronics"
+        ]
+    },
+    "Minun": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Soft stuff",
+            "Group Activities",
+            "Glass stuff",
+            "Cute stuff",
+            "Electronics"
+        ]
+    },
+    "Trapinch": {
+        "ideal_habitat": "Dry",
+        "favorites": [
+            "Watching stuff",
+            "Exercise",
+            "Lots of dirt",
+            "Hard stuff",
+            "Strange stuff"
+        ]
+    },
+    "Vibrava": {
+        "ideal_habitat": "Dry",
+        "favorites": [
+            "Lots of dirt",
+            "Luxury",
+            "Lots of fire",
+            "Lots of nature",
+            "Noisy stuff"
+        ]
+    },
+    "Flygon": {
+        "ideal_habitat": "Dry",
+        "favorites": [
+            "Lots of dirt",
+            "Lots of fire",
+            "Lots of nature",
+            "Wooden stuff",
+            "Stone stuff"
+        ]
+    },
+    "Swablu": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Watching stuff",
+            "Soft stuff",
+            "Cleanliness",
+            "Nice breezes",
+            "Cute stuff"
+        ]
+    },
+    "Altaria": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Watching stuff",
+            "Soft stuff",
+            "Nice breezes",
+            "Noisy stuff",
+            "Cute stuff"
+        ]
+    },
+    "Duskull": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Spooky stuff",
+            "Fabric",
+            "Rides",
+            "Glass stuff",
+            "Strange stuff"
+        ]
+    },
+    "Dusclops": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Soft stuff",
+            "Spooky stuff",
+            "Rides",
+            "Containers",
+            "Strange stuff"
+        ]
+    },
+    "Dusknoir": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Spooky stuff",
+            "Group Activities",
+            "Rides",
+            "Containers",
+            "Strange stuff"
+        ]
+    },
+    "Beldum": {
+        "ideal_habitat": "Cool",
+        "favorites": [
+            "Hard stuff",
+            "Metal stuff",
+            "Strange stuff",
+            "Stone stuff",
+            "Complicated stuff"
+        ]
+    },
+    "Metang": {
+        "ideal_habitat": "Cool",
+        "favorites": [
+            "Hard stuff",
+            "Metal stuff",
+            "Strange stuff",
+            "Stone stuff",
+            "Complicated stuff"
+        ]
+    },
+    "Metagross": {
+        "ideal_habitat": "Cool",
+        "favorites": [
+            "Exercise",
+            "Luxury",
+            "Hard stuff",
+            "Metal stuff",
+            "Strange stuff"
+        ]
+    },
+    "Snivy": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Lots of water",
+            "Lots of nature",
+            "Wooden stuff",
+            "Wobbly stuff",
+            "Shiny stuff"
+        ]
+    },
+    "Servine": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Cleanliness",
+            "Lots of water",
+            "Lots of nature",
+            "Wooden stuff",
+            "Shiny stuff"
+        ]
+    },
+    "Serperior": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Lots of water",
+            "Lots of nature",
+            "Containers",
+            "Slender objects",
+            "Wooden stuff"
+        ]
+    },
+    "Froakie": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Watching stuff",
+            "Cleanliness",
+            "Lots of water",
+            "Containers",
+            "Ocean vibes"
+        ]
+    },
+    "Frogadier": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Watching stuff",
+            "Exercise",
+            "Cleanliness",
+            "Lots of water",
+            "Ocean vibes"
+        ]
+    },
+    "Greninja": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Exercise",
+            "Cleanliness",
+            "Lots of water",
+            "Shiny stuff",
+            "Ocean vibes"
+        ]
+    },
+    "Dedenne": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Watching stuff",
+            "Looks like food",
+            "Group Activities",
+            "Cute stuff",
+            "Electronics"
+        ]
+    },
+    "Noibat": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Watching stuff",
+            "Luxury",
+            "Lots of fire",
+            "Looks like food",
+            "Nice breezes"
+        ]
+    },
+    "Noivern": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Watching stuff",
+            "Lots of fire",
+            "Looks like food",
+            "Nice breezes",
+            "Play spaces"
+        ]
+    },
+    "Rookidee": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Containers",
+            "Nice breezes",
+            "Slender objects",
+            "Wooden stuff",
+            "Shiny stuff"
+        ]
+    },
+    "Corvisquire": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Containers",
+            "Nice breezes",
+            "Slender objects",
+            "Wooden stuff",
+            "Shiny stuff"
+        ]
+    },
+    "Corviknight": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Containers",
+            "Nice breezes",
+            "Metal stuff",
+            "Wooden stuff",
+            "Shiny stuff"
+        ]
+    },
+    "Dreepy": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Spooky stuff",
+            "Lots of fire",
+            "Group Activities",
+            "Rides",
+            "Strange stuff"
+        ]
+    },
+    "Drakloak": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Spooky stuff",
+            "Lots of fire",
+            "Group Activities",
+            "Rides",
+            "Strange stuff"
+        ]
+    },
+    "Dragapult": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Spooky stuff",
+            "Lots of fire",
+            "Group Activities",
+            "Rides",
+            "Strange stuff"
+        ]
+    },
+    "Sprigatito": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Pretty flowers",
+            "Colorful stuff",
+            "Lots of nature",
+            "Containers",
+            "Cute stuff"
+        ]
+    },
+    "Floragato": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Pretty flowers",
+            "Colorful stuff",
+            "Sharp stuff",
+            "Lots of nature",
+            "Cute stuff"
+        ]
+    },
+    "Meowscarada": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Pretty flowers",
+            "Luxury",
+            "Lots of nature",
+            "Cute stuff",
+            "Shiny stuff"
+        ]
+    },
+    "Wattrel": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Gatherings",
+            "Electronics",
+            "Nice breezes",
+            "Complicated stuff",
+            "Ocean vibes"
+        ]
+    },
+    "Kilowattrel": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Gatherings",
+            "Electronics",
+            "Nice breezes",
+            "Slender objects",
+            "Ocean vibes"
+        ]
+    },
+    "Tinkatink": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Exercise",
+            "Looks like food",
+            "Construction",
+            "Metal stuff",
+            "Cute stuff"
+        ]
+    },
+    "Tinkatuff": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Exercise",
+            "Group Activities",
+            "Construction",
+            "Metal stuff",
+            "Cute stuff"
+        ]
+    },
+    "Tinkaton": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Exercise",
+            "Construction",
+            "Blocky stuff",
+            "Metal stuff",
+            "Cute stuff"
+        ]
+    },
+    "Aerodactyl": {
+        "ideal_habitat": "Dry",
+        "favorites": [
+            "Hard stuff",
+            "Nice breezes",
+            "Stone stuff",
+            "Spinning stuff",
+            "Shiny stuff"
+        ]
+    },
+    "Cranidos": {
+        "ideal_habitat": "Dry",
+        "favorites": [
+            "Exercise",
+            "Hard stuff",
+            "Group Activities",
+            "Stone stuff",
+            "Wobbly stuff"
+        ]
+    },
+    "Rampardos": {
+        "ideal_habitat": "Dry",
+        "favorites": [
+            "Exercise",
+            "Luxury",
+            "Hard stuff",
+            "Metal stuff",
+            "Stone stuff"
+        ]
+    },
+    "Shieldon": {
+        "ideal_habitat": "Dry",
+        "favorites": [
+            "Round stuff",
+            "Luxury",
+            "Hard stuff",
+            "Metal stuff",
+            "Stone stuff"
+        ]
+    },
+    "Bastiodon": {
+        "ideal_habitat": "Dry",
+        "favorites": [
+            "Exercise",
+            "Luxury",
+            "Hard stuff",
+            "Metal stuff",
+            "Stone stuff"
+        ]
+    },
+    "Tyrunt": {
+        "ideal_habitat": "Dry",
+        "favorites": [
+            "Exercise",
+            "Luxury",
+            "Lots of fire",
+            "Hard stuff",
+            "Stone stuff"
+        ]
+    },
+    "Tyrantrum": {
+        "ideal_habitat": "Dry",
+        "favorites": [
+            "Exercise",
+            "Luxury",
+            "Lots of fire",
+            "Hard stuff",
+            "Stone stuff"
+        ]
+    },
+    "Amaura": {
+        "ideal_habitat": "Cool",
+        "favorites": [
+            "Hard stuff",
+            "Group Activities",
+            "Containers",
+            "Stone stuff",
+            "Shiny stuff"
+        ]
+    },
+    "Aurorus": {
+        "ideal_habitat": "Cool",
+        "favorites": [
+            "Hard stuff",
+            "Symbols",
+            "Stone stuff",
+            "Noisy stuff",
+            "Shiny stuff"
+        ]
+    },
+    "Eevee": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Soft stuff",
+            "Group Activities",
+            "Letters and words",
+            "Stone stuff",
+            "Cute stuff"
+        ]
+    },
+    "Vaporeon": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Watching stuff",
+            "Pretty flowers",
+            "Cleanliness",
+            "Lots of water",
+            "Cute stuff"
+        ]
+    },
+    "Jolteon": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Sharp stuff",
+            "Glass stuff",
+            "Cute stuff",
+            "Shiny stuff",
+            "Electronics"
+        ]
+    },
+    "Flareon": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Lots of fire",
+            "Rides",
+            "Metal stuff",
+            "Wooden stuff",
+            "Cute stuff"
+        ]
+    },
+    "Espeon": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Watching stuff",
+            "Nice breezes",
+            "Strange stuff",
+            "Complicated stuff",
+            "Cute stuff"
+        ]
+    },
+    "Umbreon": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Watching stuff",
+            "Luxury",
+            "Letters and words",
+            "Cute stuff",
+            "Shiny stuff"
+        ]
+    },
+    "Leafeon": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Healing",
+            "Pretty flowers",
+            "Fabric",
+            "Lots of nature",
+            "Cute stuff"
+        ]
+    },
+    "Glaceon": {
+        "ideal_habitat": "Cool",
+        "favorites": [
+            "Group Activities",
+            "Lots of water",
+            "Glass stuff",
+            "Cute stuff",
+            "Shiny stuff"
+        ]
+    },
+    "Sylveon": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Round stuff",
+            "Fabric",
+            "Lots of nature",
+            "Noisy stuff",
+            "Cute stuff"
+        ]
+    },
+    "Kyogre": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Luxury",
+            "Lots of water",
+            "Glass stuff",
+            "Shiny stuff",
+            "Ocean vibes"
+        ]
+    },
+    "Raikou": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Luxury",
+            "Nice breezes",
+            "Glass stuff",
+            "Shiny stuff",
+            "Electronics"
+        ]
+    },
+    "Entei": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Exercise",
+            "Luxury",
+            "Lots of fire",
+            "Symbols",
+            "Stone stuff"
+        ]
+    },
+    "Suicune": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Watching stuff",
+            "Healing",
+            "Cleanliness",
+            "Lots of water",
+            "Ocean vibes"
+        ]
+    },
+    "Volcanion": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Lots of fire",
+            "Symbols",
+            "Lots of water",
+            "Containers",
+            "Stone stuff"
+        ]
+    },
+    "Articuno": {
+        "ideal_habitat": "Cool",
+        "favorites": [
+            "Luxury",
+            "Symbols",
+            "Lots of water",
+            "Nice breezes",
+            "Shiny stuff"
+        ]
+    },
+    "Zapdos": {
+        "ideal_habitat": "Bright",
+        "favorites": [
+            "Luxury",
+            "Symbols",
+            "Nice breezes",
+            "Glass stuff",
+            "Electronics"
+        ]
+    },
+    "Moltres": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Luxury",
+            "Lots of fire",
+            "Symbols",
+            "Nice breezes",
+            "Stone stuff"
+        ]
+    },
+    "Lugia": {
+        "ideal_habitat": "Humid",
+        "favorites": [
+            "Symbols",
+            "Lots of water",
+            "Nice breezes",
+            "Strange stuff",
+            "Ocean vibes"
+        ]
+    },
+    "Ho-Oh": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Lots of fire",
+            "Symbols",
+            "Lots of nature",
+            "Nice breezes",
+            "Wooden stuff"
+        ]
+    },
+    "Mewtwo": {
+        "ideal_habitat": "Dark",
+        "favorites": [
+            "Watching stuff",
+            "Letters and words",
+            "Strange stuff",
+            "Stone stuff",
+            "Complicated stuff"
+        ]
+    },
+    "Mew": {
+        "ideal_habitat": "Warm",
+        "favorites": [
+            "Watching stuff",
+            "Luxury",
+            "Play spaces",
+            "Strange stuff",
+            "Complicated stuff"
+        ]
+    }
+}
